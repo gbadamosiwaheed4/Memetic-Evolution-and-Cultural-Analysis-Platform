@@ -9,3 +9,7 @@ P
  contracts/prediction-market.clar,9/1/9108d17c8cc728671489da32eff0fa44c224c657
 F
 tests/meme-nft.test.ts,b/b/bb530d7e6d0781e76f7463da078b4ae304e0bd39
+O
+tests/cultural-analysis.test.ts,f/9/f98dee5164ee6a987540c12bc2c437246faafa1b
+]
+-tests/utils/tests_utils_contract-simulator.ts,1/f/1fddf15a5b62d7b32ee07cb6a3c6a6d956492b8f
