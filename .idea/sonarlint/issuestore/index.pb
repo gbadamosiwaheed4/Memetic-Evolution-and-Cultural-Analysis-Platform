@@ -13,3 +13,5 @@ O
 tests/cultural-analysis.test.ts,f/9/f98dee5164ee6a987540c12bc2c437246faafa1b
 ]
 -tests/utils/tests_utils_contract-simulator.ts,1/f/1fddf15a5b62d7b32ee07cb6a3c6a6d956492b8f
+O
+tests/prediction-market.test.ts,3/b/3b14a75d262f48b83e3f0eab08e73dee3819cf3b
